@@ -1,0 +1,150 @@
+{
+    "telefoni": ["060 7331199"],
+    "kartice":
+    [
+        
+        {
+            "redniBroj" : 1,
+            "naslov": 
+            {
+                "engleski": "River Cruising In Medieval Knight Boat \"Slavjana\" ",
+                "srpski":   "srpski naslov"
+            },
+            "podnaslov":
+            {
+                "engleski": "engleski podnaslov",
+                "srpski":   "srpski podnaslov"
+            },
+            "opis":
+            {
+                "engleski": "engleski opis",
+                "srpski":   
+                "Istorijsko arheološka rekonstrukcija srednjovekovnog staroslovenskog viteškog bojnog broda. Preplovio je 7 mora i najveće evropske reke na pohodu epskih razmera sa severa Rusije do Beograda. Apsolutno najveća turistička atrakcija Beogradskih reka Save i Dunava. Zaplovite viteškom lađom i doživite istoriju uživo."
+            },
+            "slike": 
+            [
+                {
+                    "velika":   "Brod/Brod-1-L.jpg",
+                    "srednja":  "Brod/Brod-1-M.jpg",
+                    "mala":     "Brod/Brod-1-S.jpg",
+                    "alt":      ""
+                },
+                {
+                    "velika":   "Brod/Brod-2-L.jpg",
+                    "srednja":  "Brod/Brod-2-M.jpg",
+                    "mala":     "Brod/Brod-2-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-3-L.jpg",
+                    "srednja":  "Brod/Brod-3-M.jpg",
+                    "mala":     "Brod/Brod-3-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-4-L.jpg",
+                    "srednja":  "Brod/Brod-4-M.jpg",
+                    "mala":     "Brod/Brod-4-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-5-L.jpg",
+                    "srednja":  "Brod/Brod-5-M.jpg",
+                    "mala":     "Brod/Brod-5-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-6-L.jpg",
+                    "srednja":  "Brod/Brod-6-M.jpg",
+                    "mala":     "Brod/Brod-6-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-7-L.jpg",
+                    "srednja":  "Brod/Brod-7-M.jpg",
+                    "mala":     "Brod/Brod-7-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-8-L.jpg",
+                    "srednja":  "Brod/Brod-8-M.jpg",
+                    "mala":     "Brod/Brod-8-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-9-L.jpg",
+                    "srednja":  "Brod/Brod-9-M.jpg",
+                    "mala":     "Brod/Brod-9-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-10-L.jpg",
+                    "srednja":  "Brod/Brod-10-M.jpg",
+                    "mala":     "Brod/Brod-10-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-11-L.jpg",
+                    "srednja":  "Brod/Brod-11-M.jpg",
+                    "mala":     "Brod/Brod-11-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-12-L.jpg",
+                    "srednja":  "Brod/Brod-12-M.jpg",
+                    "mala":     "Brod/Brod-12-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-13-L.jpg",
+                    "srednja":  "Brod/Brod-13-M.jpg",
+                    "mala":     "Brod/Brod-13-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-14-L.jpg",
+                    "srednja":  "Brod/Brod-14-M.jpg",
+                    "mala":     "Brod/Brod-14-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-15-L.jpg",
+                    "srednja":  "Brod/Brod-15-M.jpg",
+                    "mala":     "Brod/Brod-15-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-16-L.jpg",
+                    "srednja":  "Brod/Brod-16-M.jpg",
+                    "mala":     "Brod/Brod-16-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-17-L.jpg",
+                    "srednja":  "Brod/Brod-17-M.jpg",
+                    "mala":     "Brod/Brod-17-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-18-L.jpg",
+                    "srednja":  "Brod/Brod-18-M.jpg",
+                    "mala":     "Brod/Brod-18-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-19-L.jpg",
+                    "srednja":  "Brod/Brod-19-M.jpg",
+                    "mala":     "Brod/Brod-19-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-20-L.jpg",
+                    "srednja":  "Brod/Brod-20-M.jpg",
+                    "mala":     "Brod/Brod-20-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-21-L.jpg",
+                    "srednja":  "Brod/Brod-21-M.jpg",
+                    "mala":     "Brod/Brod-21-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-22-L.jpg",
+                    "srednja":  "Brod/Brod-22-M.jpg",
+                    "mala":     "Brod/Brod-22-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-23-L.jpg",
+                    "srednja":  "Brod/Brod-23-M.jpg",
+                    "mala":     "Brod/Brod-23-S.jpg"
+                },
+                {
+                    "velika":   "Brod/Brod-24-L.jpg",
+                    "srednja":  "Brod/Brod-24-M.jpg",
+                    "mala":     "Brod/Brod-24-S.jpg"
+                }
+            ]
+        }
+    ]
+}
