@@ -259,6 +259,28 @@ a {
     background-position: 100% 0%;
 }
 
+#map{
+    margin-top:100px;
+    width:100%;
+    border: 7px solid rgb(83, 31, 0);
+}
+#map iframe{
+    width: 100%;
+    height:500px;
+}
+
+.locationText{
+    color:rgb(83, 31, 0);
+    font-family:knightFont;
+    text-align:center;
+    font-size:3vw;
+    margin-top:15px;
+}
+
+.tel-brown img {
+    width:4vw;
+}
+
 /* ---------------  MEDIA QUERIES! ---------------------- /
 
 /* // Extra large devices (large desktops, 1200px and below) */

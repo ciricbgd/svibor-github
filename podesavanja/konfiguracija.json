@@ -1,26 +1,98 @@
 {
-    "telefoni": ["060 7331199"],
+    "naslov": 
+        {
+            "eng":"SLAVYANA",
+            "srb":"SLAVJANA"
+        },
+    "podnaslov": 
+        {
+            "eng":"Sail the river Daunbe in historical reconstruction of medieval Slavic knight warship!",
+            "srb":""
+        },
+    "dugme":
+        {
+            "eng":"FIND OUT MORE",
+            "srb":""
+        },
+    "galerijanaslov":
+        {
+            "eng":"Experience the Journey With Us!",
+            "srb":""
+        },
+    "drustvenemreze":
+        {
+            "eng":"Follow Us!",
+            "srb":"Pratite nas!"
+        },
+    "adresa":
+    {
+        "eng":"Nikola Tesla Boulevard, Belgrade",
+        "srb":"Bulevar Nikole Tesle, Beograd"
+    },
+    "rezervacija":
+    {
+        "eng":"Call Now<br>Make a Reservation<br>Start Your Adventure",
+        "srb":"Pozovite odmah<br>Napravite rezervaciju<br>Krenite u avanturu"
+    },
+    "telefon": "+381607331199",
+
+
     "kartice":
+    [
+        {
+            "tekst":
+                {
+                    "eng":"Slavjana is a replica of the boat used in knight battles in the early medieval period in Slavic countries, more than 1000 years ago.",
+                    "srb":""
+                },
+            "slika":
+                {
+                    "putanja": "Brod/Brod-19-M.jpg",
+                    "alt":""
+                }
+        },
+        {
+            "tekst":
+                {
+                    "eng":"It sailed the 7 seas and the grandest European rivers in a quest of epic proportions from North of Russia to Belgrade.",
+                    "srb":""
+                },
+            "slika":
+                {
+                    "putanja": "Brod/Brod-1-M.jpg",
+                    "alt":""
+                }
+        },
+        {
+            "tekst":
+                {
+                    "eng":"Absolutely the biggest touristic attraction on Belgrade's river Sava and Danube.",
+                    "srb":""
+                },
+            "slika":
+                {
+                    "putanja": "Brod/Brod-22-M.jpg",
+                    "alt":""
+                }
+        },
+        {
+            "tekst":
+                {
+                    "eng":"Join us on a cruise and relive history!",
+                    "srb":""
+                },
+            "slika":
+                {
+                    "putanja": "Brod/Brod-18-M.jpg",
+                    "alt":""
+                }
+        }
+    ],
+
+    "galerija":
     [
         
         {
-            "redniBroj" : 1,
-            "naslov": 
-            {
-                "engleski": "River Cruising In Medieval Knight Boat \"Slavjana\" ",
-                "srpski":   "srpski naslov"
-            },
-            "podnaslov":
-            {
-                "engleski": "engleski podnaslov",
-                "srpski":   "srpski podnaslov"
-            },
-            "opis":
-            {
-                "engleski": "engleski opis",
-                "srpski":   
-                "Istorijsko arheološka rekonstrukcija srednjovekovnog staroslovenskog viteškog bojnog broda. Preplovio je 7 mora i najveće evropske reke na pohodu epskih razmera sa severa Rusije do Beograda. Apsolutno najveća turistička atrakcija Beogradskih reka Save i Dunava. Zaplovite viteškom lađom i doživite istoriju uživo."
-            },
             "slike": 
             [
                 {
